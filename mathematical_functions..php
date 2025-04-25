@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-
-<body>
   <?php
   // 1. Initialize any variable and display ceiling value of 443.3432
   $num1 = 443.3432;
@@ -21,7 +12,3 @@
   $random = rand(500, 5000);
   echo "Random number between 500 and 5000: " . $random . "<br>";
   ?>
-
-</body>
-
-</html>
